@@ -14,7 +14,7 @@ Display numbers between **1** and **N** by following the rules:
 ### with php-cli installed on the host
 To run the script, use the following command in the root of the project with the desired `<number>`:
 ```bash
-php fizzbuzz.php <number>
+php src/fizzbuzz.php <number>
 ```
 
 ### with docker
